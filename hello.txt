@@ -1,3 +1,3 @@
 hello git first
 hello git second
-hello git third
+hello git third has fixed
